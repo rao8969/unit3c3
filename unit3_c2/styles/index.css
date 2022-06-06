@@ -1,0 +1,32 @@
+#name,#email,#address,#amount,#submit{
+            margin-left: 25%;
+            height: 30px;
+            width: 50%;
+            margin-bottom: 20px;
+            cursor: pointer;
+            margin-top: 25px;
+}
+#form{
+            height: 500px;
+            width: 40%;
+            border: 1px solid black;
+            margin: auto;
+            background-color:rgb(230, 209, 171);
+            margin-top: 50px;
+}
+#submit{
+            background-color: blue;
+            color: white;
+            border: none;
+            width: 20%;
+            
+            border-radius: 5px;
+}
+h2{
+            text-align: center;
+}
+#navbar{
+            display: flex;
+            justify-content: space-between;
+            background-color: rgb(141, 226, 141);
+}
